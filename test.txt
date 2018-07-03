@@ -2,3 +2,4 @@
 echo "Hello World!"
 echo "backup"
 echo 'three'
+echo "test git motify"
