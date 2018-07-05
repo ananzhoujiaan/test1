@@ -5,4 +5,3 @@ echo 'three'
 echo "test git motify"
 echo 'test git motify2'
 echo "add anan_add_xshell"
-echo 'add feature2'
