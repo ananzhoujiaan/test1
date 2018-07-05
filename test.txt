@@ -5,4 +5,8 @@ echo 'three'
 echo "test git motify"
 echo 'test git motify2'
 echo "add anan_add_xshell"
+<<<<<<< HEAD
 echo "add master_1"
+=======
+echo "add f1"
+>>>>>>> f1
